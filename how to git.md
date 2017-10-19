@@ -9,7 +9,7 @@ $ git clone https://github.com/Quentin-Cornu/projet-robot.git
 ### Then, Select a branch (default: master)
 
 ```
-$ git checkout origin/[name_of_branch]
+$ git checkout [name_of_the_branch]
 ```
 
 * in this repository the branches are:
@@ -34,7 +34,7 @@ $ git fetch origin
 #### Commit your code
 
 ``` shell
-$ git commit -a -m 'Your Commit Message' -u [name_of_the_branch]
+$ git commit -a -m 'Your Commit Message'
 ```
 
 #### And push it to the repository :
