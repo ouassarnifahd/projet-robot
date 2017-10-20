@@ -46,4 +46,5 @@ $ git push origin [name_of_the_branch]
 ```
 
 ### See also
-[https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches]()
+* [Kunena-Forum-wiki](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+* [Documentation Git](https://github.com/gitster/git-htmldocs)
